@@ -21,6 +21,12 @@ Yazı içindeki dilediğiniz konulara buradaki başlıkların üstüne tıklayar
 <a href="#pointer%C4%B1n-temel-i%CC%87%C5%9Flevi">Pointer'ın Temel İşlevi</a>
 <h1 id="pointer%C4%B1n-temel-i%CC%87%C5%9Flevi">Pointer'ın Temel İşlevi</h1>
 
+a[href^="#"] {
+  color: blue; 
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 ## Pointer'ın Temel İşlevi
   
 Bilgisayar ortamındaki her bir veri değeri, hafızada belli bir yer
