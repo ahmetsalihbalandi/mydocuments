@@ -18,6 +18,9 @@ Yazı içindeki dilediğiniz konulara buradaki başlıkların üstüne tıklayar
 ### [-Pointer ile Struct ve Enum](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#pointer-ile-struct-ve-enum)
 ### [-File Pointer](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#file-pointer)
 
+<a href="#pointer%C4%B1n-temel-i%CC%87%C5%9Flevi">Pointer'ın Temel İşlevi</a>
+<h1 id="pointer%C4%B1n-temel-i%CC%87%C5%9Flevi">Pointer'ın Temel İşlevi</h1>
+
 ## Pointer'ın Temel İşlevi
   
 Bilgisayar ortamındaki her bir veri değeri, hafızada belli bir yer
