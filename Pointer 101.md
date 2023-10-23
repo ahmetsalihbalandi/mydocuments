@@ -24,7 +24,7 @@ Yazı içindeki dilediğiniz konulara buradaki başlıkların üstüne tıklayar
 <a href="#pointer-ile-struct-ve-enum">-Pointer ile Struct ve Enum</a>
 <h1 id="pointer-ile-struct-ve-enum">-Pointer ile Struct ve Enum</h1>
 <a href="#file-pointer">-File Pointer</a>
-<h1 id="file-pointer">-File Pointer</h1>
+
 
 ## Pointer'ın Temel İşlevi
   
