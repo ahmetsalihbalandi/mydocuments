@@ -7,25 +7,24 @@ birlikte pointer ile ilgili önemli işlevleri ve o işlevleri kavramamıza
 yardımcı olacak örnekleri gözden geçireceğiz.
 
 Yazı içindeki dilediğiniz konulara buradaki başlıkların üstüne tıklayarak ulaşabilirsiniz:
-
-### [-Pointer'ın Temel İşlevi](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#pointer%C4%B1n-temel-i%CC%87%C5%9Flevi)
-### [-Pointer ile Call by Reference (Referans ile Çağrı)](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#pointer-ile-call-by-reference-referans-ile-%C3%A7a%C4%9Fr%C4%B1)
-### [-Pointer, Dizi ve Pointer Aritmetiği](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#pointer-dizi-ve-pointer-aritmeti%C4%9Fi)
-### [-Pointer ile Dinamik Bellek Tahsisi (Dynamic Memory Allocation)](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#pointer-ile-dinamik-bellek-tahsisi-dynamic-memory-allocation)
-### [-Fonksiyon İşaretçisi (Function Pointer)](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#fonksiyon-i%CC%87%C5%9Faret%C3%A7isi-function-pointer)
-### [-Double Pointer](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#double-pointer)
-### [-Pointer Dönüşlü Fonksiyonlar](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#pointer-d%C3%B6n%C3%BC%C5%9Fl%C3%BC-fonksiyonlar)
-### [-Pointer ile Struct ve Enum](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#pointer-ile-struct-ve-enum)
-### [-File Pointer](https://github.com/ahmetsalihbalandi/myprojects/blob/main/Pointer%20101.md#file-pointer)
-
-<a href="#pointer%C4%B1n-temel-i%CC%87%C5%9Flevi">Pointer'ın Temel İşlevi</a>
-<h1 id="pointer%C4%B1n-temel-i%CC%87%C5%9Flevi">Pointer'ın Temel İşlevi</h1>
-
-a[href^="#"] {
-  color: blue; 
-  text-decoration: underline;
-  cursor: pointer;
-}
+<a href="#pointer%C4%B1n-temel-i%CC%87%C5%9Flevi">-Pointer'ın Temel İşlevi</a>
+<h1 id="pointer%C4%B1n-temel-i%CC%87%C5%9Flevi">-Pointer'ın Temel İşlevi</h1>
+<a href="#pointer-ile-call-by-reference-referans-ile-%C3%A7a%C4%9Fr%C4%B1">-Pointer ile Call by Reference (Referans ile Çağrı)</a>
+<h1 id="pointer-ile-call-by-reference-referans-ile-%C3%A7a%C4%9Fr%C4%B1">-Pointer ile Call by Reference (Referans ile Çağrı)</h1>
+<a href="#pointer-dizi-ve-pointer-aritmeti%C4%9Fi">-Pointer, Dizi ve Pointer Aritmetiği</a>
+<h1 id="pointer-dizi-ve-pointer-aritmeti%C4%9Fi">-Pointer, Dizi ve Pointer Aritmetiği</h1>
+<a href="#pointer-ile-dinamik-bellek-tahsisi-dynamic-memory-allocation">-Pointer ile Dinamik Bellek Tahsisi (Dynamic Memory Allocation)</a>
+<h1 id="pointer-ile-dinamik-bellek-tahsisi-dynamic-memory-allocation">-Pointer ile Dinamik Bellek Tahsisi (Dynamic Memory Allocation)</h1>
+<a href="#fonksiyon-i%CC%87%C5%9Faret%C3%A7isi-function-pointer">-Fonksiyon İşaretçisi (Function Pointer)</a>
+<h1 id="fonksiyon-i%CC%87%C5%9Faret%C3%A7isi-function-pointer">-Fonksiyon İşaretçisi (Function Pointer)</h1>
+<a href="#double-pointer">-Double Pointer</a>
+<h1 id="double-pointer">-Double Pointer</h1>
+<a href="#pointer-d%C3%B6n%C3%BC%C5%9Fl%C3%BC-fonksiyonlar">-Pointer Dönüşlü Fonksiyonlar</a>
+<h1 id="pointer-d%C3%B6n%C3%BC%C5%9Fl%C3%BC-fonksiyonlar">-Pointer Dönüşlü Fonksiyonlar</h1>
+<a href="#pointer-ile-struct-ve-enum">-Pointer ile Struct ve Enum</a>
+<h1 id="pointer-ile-struct-ve-enum">-Pointer ile Struct ve Enum</h1>
+<a href="#file-pointer">-File Pointer</a>
+<h1 id="file-pointer">-File Pointer</h1>
 
 ## Pointer'ın Temel İşlevi
   
