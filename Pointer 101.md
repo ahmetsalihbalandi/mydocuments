@@ -1310,4 +1310,4 @@ Dosya içeriği:
 
 Pointer ile ilgili anlatacaklarım bu kadardı. Buraya kadar konuyla ilgili herhangi bir soru, eleştri veya katkınız
 olursa <a href="mailto:asbalandi@gmail.com" target="blank">bana mail adresimden ulaşabilirsiniz.</a>
-</br><a href="https://www.linkedin.com/in/ahmetsalihbalandi/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="50px" height="50px"></a>
+<p><a href="https://www.linkedin.com/in/ahmetsalihbalandi/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="25px" height="25px"></a></p>
