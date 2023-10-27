@@ -1310,5 +1310,5 @@ Dosya içeriği:
 
 Pointer ile ilgili anlatacaklarım bu kadardı. Buraya kadar konuyla ilgili herhangi bir soru, eleştri veya katkınız
 olursa bana aşağıdaki bağlantılardan ulaşabilirsiniz.
-<p><a href="mailto:asbalandi@gmail.com" target="blank"><img src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" width="25px" height="25px"></a>
-<a href="https://www.linkedin.com/in/ahmetsalihbalandi/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="25px" height="25px"></a></p>
+<p><a href="mailto:asbalandi@gmail.com" target="blank"><img src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" width="35px" height="35px"></a>
+<a href="https://www.linkedin.com/in/ahmetsalihbalandi/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="35px" height="35px"></a></p>
