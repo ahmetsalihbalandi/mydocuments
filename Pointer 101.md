@@ -268,7 +268,7 @@ Tablomuz yardımıyla bellekteki işlemleri gözden geçirelim:
 ![66](https://github.com/YOBU-Computer-Engineering/github-lecture-notes/assets/43602725/ac905540-9030-475d-8fe1-8fa38e110032)
 
 Evet, aPtr int türünde olduğu için ```aPtr + (sayı)``` ifadesi, ```aPtr +
-sizeof(int) \* (sayı)``` ifadesine eş değer oluyor.
+sizeof(int) * (sayı)``` ifadesine eş değer oluyor.
 
 ## Pointer ile Dinamik Bellek Tahsisi (Dynamic Memory Allocation) 
 
